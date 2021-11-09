@@ -1,4 +1,4 @@
-Program Created by Mick Wiedermann - c3315267 - 30/10/21
+Program Created by M1ck0 - c3315267 - 30/10/21
 
 SENG2250 A3 
 Demonstration of Ephemeral Diffie-Hellman over RSA.
