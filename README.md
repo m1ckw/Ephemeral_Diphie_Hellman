@@ -10,6 +10,5 @@ Execution Instructions:
     3. In window 2. Start Client with the following command:  clear && javac Client.java && java Client
     4. Type messages into Client window to see them encrypted then decrypted. 
     5. To exit enter the following command:  End
-    6. Please mark generously ;)
 
 Upon exit all private and public values will be displayed. 
