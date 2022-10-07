@@ -12,4 +12,5 @@ Execution Instructions:
     <li>Type messages into Client window to see them encrypted then decrypted.</li>
     <li>To exit enter the following command:  End</li>
 </ol>
+
 Upon exit all private and public values will be displayed. 
